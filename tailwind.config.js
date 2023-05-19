@@ -10,6 +10,9 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      titanOne: "Titan One",
+    },
   },
   plugins: [],
 };
